@@ -1,0 +1,10 @@
+--- PibP.nc	2012-11-26 12:55:09.000000000 +0100
++++ PibP.nc	2012-11-26 13:17:33.000000000 +0100
+@@ -997,6 +997,7 @@
+     ((uint8_t*) &pdescriptor->SuperframeSpec)[1] = frame->data[BEACON_INDEX_SF_SPEC2];
+     pdescriptor->GTSPermit = (frame->data[BEACON_INDEX_GTS_SPEC] & GTS_SPEC_PERMIT) ? 1 : 0;
+     pdescriptor->LinkQuality = metadata->linkQuality;
++    pdescriptor->RSSI = metadata->rssi;
+     pdescriptor->TimeStamp = metadata->timestamp;
+ #ifndef IEEE154_SECURITY_ENABLED
+     pdescriptor->SecurityFailure = IEEE154_SUCCESS;

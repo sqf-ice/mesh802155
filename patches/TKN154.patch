@@ -1,0 +1,10 @@
+--- TKN154.h	2012-11-26 12:55:09.000000000 +0100
++++ TKN154.h	2012-12-04 17:36:35.000000000 +0100
+@@ -141,6 +141,7 @@
+   ieee154_SuperframeSpec_t SuperframeSpec;
+   bool GTSPermit;
+   uint8_t LinkQuality;
++  int8_t RSSI;
+   uint32_t TimeStamp;
+   ieee154_status_t SecurityFailure;
+   uint8_t SecurityLevel;
