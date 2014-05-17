@@ -3,11 +3,11 @@ Author/Contact: David Rodenas-Herraiz <rodenasherraiz.david@gmail.com>
 
 Description:
 
-In this application one node takes the role of mesh coordinator (MC) of a
+In this application one node takes the role of mesh coordinator (MC) of an IEEE 
 802.15.5 LR-WPAN Mesh. The MC initiates a mesh network, and waits for new
 devices requesting for joining the network. Whenever a device tries to
 join, the mesh coordinator accepts it. Other four nodes act as intermediate
-devices (mesh-devices), and another fifth node acts as end-device. All of them,
+devices (mesh-devices), and a fifth node acts as end-device. All of them,
 the mesh-devices and the end-device switch to the pre-defined channel by the
 MC and then try to join it. Once all nodes join the network, the following tree
 multi-hop topology is formed:
