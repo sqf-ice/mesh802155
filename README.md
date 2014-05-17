@@ -2,7 +2,7 @@ IEEE 802.15.5 implementation for TinyOS 2.1
 ==========
 Authors:
 <ul>
-<li>David Rodenas-Herraiz (rodenasherraiz.david@gmail.com)</li>
+<li>David Rodenas-Herraiz (rodenasherraiz.david@gmail.com) (GitHub user: dr424)</li>
 <li>Antonio-Javier Garcia-Sanchez (antoniojavier.garcia@upct.es)</li>
 <li>Felipe Garcia-Sanchez (felipe.garcia@upct.es)</li>
 <li>Joan Garcia-Haro (joang.haro@upct.es)</li>
