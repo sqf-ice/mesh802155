@@ -1,9 +1,9 @@
 IEEE 802.15.5 implementation for TinyOS 2.1
 ==========
-* David Rodenas-Herráiz (rodenasherraiz.david@gmail.com)		
-* Antonio-Javier García-Sánchez (antoniojavier.garcia@upct.es)
-* Felipe García-Sánchez (felipe.garcia@upct.es)
-* Joan García-Haro (joang.haro@upct.es)
+* David Rodenas-Herraiz (rodenasherraiz.david@gmail.com)		
+* Antonio-Javier Garcia-Sanchez (antoniojavier.garcia@upct.es)
+* Felipe Garcia-Sanchez (felipe.garcia@upct.es)
+* Joan Garcia-Haro (joang.haro@upct.es)
 ==========
 
 Download and install the most recent version of TinyOS.See 
@@ -26,6 +26,6 @@ Test applications are located within the mesh155/apps/ directory.
 Further reading:
 
 David Rodenas-Herraiz, Antonio-Javier Garcia-Sanchez, Felipe Garcia-Sanchez, 
-Joan Garcia-Haro, “An Experimental Test Bed for the Evaluation of the Hidden 
-Terminal Problems on the IEEE 802.15.5 Standard”, Proceedings of the 2014 
-IEEE ITU Kaleidoscope Conference, Saint Petersburg, Russia, June 3–5, 2014.
+Joan Garcia-Haro, An Experimental Test Bed for the Evaluation of the Hidden 
+Terminal Problems on the IEEE 802.15.5 Standard, Proceedings of the 2014 
+IEEE ITU Kaleidoscope Conference, Saint Petersburg, Russia, June 3-5, 2014.
