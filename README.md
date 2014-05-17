@@ -1,9 +1,10 @@
 IEEE 802.15.5 implementation for TinyOS 2.1
 ==========
-* David Rodenas-Herraiz (rodenasherraiz.david@gmail.com)		
-* Antonio-Javier Garcia-Sanchez (antoniojavier.garcia@upct.es)
-* Felipe Garcia-Sanchez (felipe.garcia@upct.es)
-* Joan Garcia-Haro (joang.haro@upct.es)
+Authors:
+David Rodenas-Herraiz (rodenasherraiz.david@gmail.com)		
+Antonio-Javier Garcia-Sanchez (antoniojavier.garcia@upct.es)
+Felipe Garcia-Sanchez (felipe.garcia@upct.es)
+Joan Garcia-Haro (joang.haro@upct.es)
 ==========
 
 Download and install the most recent version of TinyOS.See 
