@@ -5,6 +5,7 @@ Authors:
 <li>David Rodenas-Herraiz (rodenasherraiz.david@gmail.com)</li>
 <li>Antonio-Javier Garcia-Sanchez (antoniojavier.garcia@upct.es)</li>
 <li>Felipe Garcia-Sanchez (felipe.garcia@upct.es)</li>
+<li>Joan Garcia-Haro (joang.haro@upct.es)</li>
 </ul>
 ==========
 
